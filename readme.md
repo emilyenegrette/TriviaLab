@@ -1,4 +1,4 @@
-#Trivia Lab
+###Trivia Lab
 
 Mi primer proyecto uniendo diversas destrezas y trabajando en equipo. 
 
